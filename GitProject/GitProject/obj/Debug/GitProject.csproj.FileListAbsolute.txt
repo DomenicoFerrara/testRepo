@@ -1,1 +1,2 @@
 c:\users\blued\onedrive\documenti\visual studio 2015\Projects\GitProject\GitProject\bin\Debug\GitProject.exe.config
+D:\Utente\Documenti\GitHub\testRepo\GitProject\GitProject\bin\Debug\GitProject.exe.config
